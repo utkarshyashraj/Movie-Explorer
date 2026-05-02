@@ -252,6 +252,10 @@ interface Movie {
 - [ ] Movie recommendations
 - [ ] User ratings and reviews
 
+## Github Pages|
+
+ https://utkarshyashraj.github.io/Movie-Explorer/
+ 
 ## License
 
 MIT
